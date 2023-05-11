@@ -1,9 +1,6 @@
 
 package clasepersona;
 
-import java.time.DateTimeException;
-import java.time.LocalDate;
-import java.util.Scanner;
 
 import java.time.DateTimeException;
 import java.time.LocalDate;

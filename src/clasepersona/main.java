@@ -78,6 +78,8 @@ public class main {
                         }
 
                     }
+                    
+                    System.out.println("El FCB es el mejor equipo que ha existido jamás");
 
                 }
             } catch (IllegalArgumentException e) {
